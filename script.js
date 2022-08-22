@@ -35,7 +35,6 @@ function validate() {
 }
 
 
-
 function compute() {
 
     if (isValidInput(amount.value) == true) { 
